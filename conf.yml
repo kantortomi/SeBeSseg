@@ -1,0 +1,11 @@
+drawArea: False
+
+drawDetectors: True
+
+drawRect: True
+
+drawMid: True
+
+drawText: True
+
+drawLanes: True

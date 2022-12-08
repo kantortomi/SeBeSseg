@@ -1,0 +1,19 @@
+numpy
+opencv-python
+pandas
+seaborn
+requests
+pyyaml
+Pillow
+torch==1.12.1
+torchvision
+matplotlib
+keras
+tensorflow
+tensorboard
+imutils
+cmake
+scipy
+motpy
+shapely
+--find-links https://download.pytorch.org/whl/cu116/torch_stable.html
